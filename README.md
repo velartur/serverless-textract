@@ -22,7 +22,8 @@ aws configure
 Update Node.js to the minimal version of 8.
 
 ``` bash
-nvm i v8
+nvm i v14.15.1
+sudo pip install -U pip
 ```
 
 Install Serverless CLI tool https://serverless.com/framework/docs/providers/aws/guide/installation/
